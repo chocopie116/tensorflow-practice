@@ -1,1 +1,1 @@
-# tensorflow-practice
+# tensorflow-practice## requirements- pyenv-virtualenv- pip## setup```make setup```
