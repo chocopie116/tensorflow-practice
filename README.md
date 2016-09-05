@@ -1,1 +1,1 @@
-# tensorflow-practice## requirements- pyenv-virtualenv- pip## setup```make setup```
+# tensorflow-practice## requirements- pyenv-virtualenv- pip## setup```make setup```[このあたり](http://qiita.com/KazaKago/items/587ac1224afc2c9350f1)を参考にした
